@@ -7,3 +7,5 @@ Mi primera contribución local para Github
 Un commit más de Github
 
 Aprendiendo Git fetch
+
+Cambios desde dev editor
